@@ -20,5 +20,5 @@ document.getElementById('pending-projects').addEventListener('click', function()
 });
 
 document.getElementById('accepted-projects').addEventListener('click', function() {
-    window.location.href = 'https://da6zin.github.io/Juliana-ProjetosAceitos/#';  // Troque pelo caminho correto do seu arquivo
+    window.location.href = 'projetos-aceitos.html';  // Troque pelo caminho correto do seu arquivo
 });
