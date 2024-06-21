@@ -16,7 +16,7 @@ document.getElementById('home-button').addEventListener('click', function(event)
 
 
 document.getElementById('pending-projects').addEventListener('click', function() {
-    window.location.href = 'https://da6zin.github.io/Juliana-ProjetosPendentes/';  // Troque pelo caminho correto do seu arquivo
+    window.location.href = 'https://da6zin.github.io/Juliana-ProjetosPendentes/'; 
 });
 
 document.getElementById('accepted-projects').addEventListener('click', function() {
