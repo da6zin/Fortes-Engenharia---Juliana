@@ -28,7 +28,7 @@ header {
 .menu {
     display: flex;
     align-items: center;
-    gap: 30px; /* Espaço entre os ícones de 30px */
+    gap: 30px; 
 }
 
 .menu img {
@@ -40,13 +40,13 @@ header {
     background: none;
     border: none;
     padding: 0;
-    margin-right: 30px; /* Margem à direita de 30px */
+    margin-right: 30px; 
     cursor: pointer;
 }
 
 #menu-button img {
-    width: 30px; /* Definindo tamanho quadrado */
-    height: 30px; /* Definindo tamanho quadrado */
+    width: 30px; 
+    height: 30px; 
 }
 
 main {
@@ -55,18 +55,18 @@ main {
 }
 
 main .logo {
-    width: 300px; /* Aumentando o tamanho do logo */
+    width: 300px; 
     margin-top: 20px;
 }
 
 main h1 {
-    margin-top: 40px; /* Adicionando mais espaço acima da frase */
+    margin-top: 40px;
 }
 
 main .buttons {
     display: flex;
     justify-content: center;
-    margin-top: 40px; /* Aumentando o espaço acima dos botões */
+    margin-top: 40px; 
 }
 
 main img {
@@ -78,7 +78,7 @@ main .buttons button {
     background-color: #047C8C;
     color: white;
     border: none;
-    padding: 20px 40px; /* Aumentando o tamanho dos botões */
+    padding: 20px 40px;
     margin: 0 20px;
     border-radius: 5px;
     cursor: pointer;
@@ -88,7 +88,7 @@ main .buttons button:hover {
     background-color: #006666;
 }
 
-/* Estilos para a sidebar */
+
 .sidebar {
     height: 100%;
     width: 0;
@@ -99,7 +99,7 @@ main .buttons button:hover {
     background-color: #111;
     overflow-x: hidden;
     transition: 0.5s;
-    padding-top: 80px; /* Ajustado de 60px para 100px para adicionar 40px a mais */
+    padding-top: 80px; 
     box-shadow: -3px 0 5px rgba(0,0,0,0.2);
 }
 
